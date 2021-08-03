@@ -1,7 +1,9 @@
 ## Hi there 👋🏻
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/codercat.jpg" />
 ![Profile Views](https://profile-counter.glitch.me/{sumitvivek}/count.svg)
 
 ![Profile Views](https://gpvc.arturio.dev/sumitvivek)
+
 <!--
 **sumitvivek/sumitvivek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
