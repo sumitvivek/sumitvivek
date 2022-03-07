@@ -1,4 +1,6 @@
 ## Hi there 👋🏻
+* I am Sumit Vivek, a programming enthusiast.
+* I am currently looking for SDE oppurtunities.
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/codercat.jpg" />
 
 &nbsp;&nbsp;
