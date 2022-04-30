@@ -1,11 +1,16 @@
-## Hi there 👋🏻
-* I am Sumit Vivek, a programming enthusiast.
+
+<h1 align="center">Hi <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50px"/>, I'm Sumit Vivek</h1>
+<h3 align="center">Learning Programming and Computer Science</h3>
+<!-- ## Hi there 👋🏻
+* I am Sumit Vivek, a programming enthusiast. -->
 * I am currently looking for SDE oppurtunities.
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/codercat.jpg" />
 
 &nbsp;&nbsp;
 
-![Profile Views](https://profile-counter.glitch.me/{sumitvivek}/count.svg)
+<p align="left"><img align="left" src="https://profile-counter.glitch.me/{sumitvivek}/count.svg" alt="earth" width="110px"></p>
+<br>
+<!-- ![Profile Views](https://profile-counter.glitch.me/{sumitvivek}/count.svg) -->
 
 ![Profile Views](https://gpvc.arturio.dev/sumitvivek)
 
