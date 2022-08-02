@@ -3,7 +3,7 @@
 <h3 align="center">Learning Programming and Computer Science</h3>
 <!-- ## Hi there 👋🏻
 * I am Sumit Vivek, a programming enthusiast. -->
-* I am currently looking for SDE oppurtunities.
+* I am currently looking for SDE opportunities.
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/codercat.jpg" />
 
 &nbsp;&nbsp;
