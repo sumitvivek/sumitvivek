@@ -15,6 +15,7 @@
 <!-- ![Profile Views](https://gpvc.arturio.dev/sumitvivek) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=sumitvivek.sumitvivek)
 ![GitHub followers](https://img.shields.io/github/followers/sumitvivek?style=social)
+<!-- 
 <h2><b>⚡ Github Stats</b></h2>
 <p align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sumitvivek&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My Github Stats&hide_border=false&border_color=808080&bg_color=242424" />
@@ -26,6 +27,7 @@
 </p>
 
 <br/><br/>
+-->
 <!--
 **sumitvivek/sumitvivek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
