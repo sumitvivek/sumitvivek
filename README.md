@@ -7,12 +7,6 @@
 <div align="center">
   
   ## 👨‍💻 Software Developer | Problem Solver | Lifelong Learner
-
-  ---
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitvivek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" alt="GitHub Stats" />
-  
-  ---
   
   ## 🌌 Connect with me
   
